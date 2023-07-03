@@ -7,6 +7,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "057A", "057A\057A.pyproj", 
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "057B", "057B\057B.pyproj", "{C1BF532E-EAB0-4CAE-BE65-335F32214B4A}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "058A", "058A\058A.pyproj", "{1CDA8C19-B9D2-47C2-975B-C5EAD2116729}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "058B", "058B\058B.pyproj", "{0D7A9FC1-A511-4357-AC3E-470BAE1D665F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +21,10 @@ Global
 		{F29F5B1F-063D-42BF-90DA-40C901A2982D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1BF532E-EAB0-4CAE-BE65-335F32214B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C1BF532E-EAB0-4CAE-BE65-335F32214B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CDA8C19-B9D2-47C2-975B-C5EAD2116729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CDA8C19-B9D2-47C2-975B-C5EAD2116729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D7A9FC1-A511-4357-AC3E-470BAE1D665F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D7A9FC1-A511-4357-AC3E-470BAE1D665F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

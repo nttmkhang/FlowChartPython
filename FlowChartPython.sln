@@ -3,10 +3,22 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "134A", "134A\134A.pyproj", "{6D966EAD-D166-4519-8754-8FF0756272E0}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "134B", "134B\134B.pyproj", "{0EDCF656-9268-4E35-B4EB-9263A30E2DF5}"
 EndProject
+=======
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "013A", "013A\013A.pyproj", "{DBDC0E02-0BF7-4878-8F95-57D10DF0D132}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "013B", "013B\013B.pyproj", "{09CBEBAE-D52C-41B3-AE33-14130A212E0F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "079A", "079A\079A.pyproj", "{6747CCB5-AB68-43D2-88D1-EFA470FF8B71}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "079B", "079B\079B.pyproj", "{B37392C4-DCB9-4B1B-97A2-0B093AA1853A}"
+EndProject
+<<<<<<< HEAD
+>>>>>>> 5fd41829600d27853222deae7001770a2b8def87
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "149A", "149A\149A.pyproj", "{ABE4583D-06EE-4EA9-8D79-443997389CC0}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "149B", "149B\149B.pyproj", "{9F2F6EFE-F490-419E-8B4A-22FB9FEF8419}"
@@ -71,20 +83,35 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "085A", "085A\085A.pyproj", 
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "085B", "085B\085B.pyproj", "{BF49609F-F413-46DC-9151-CDD04590D994}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "001A", "001A\001A.pyproj", "{8C0B50BE-5ADD-4BA8-946C-BA9DAC5C0972}"
-EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "001B", "001B\001B.pyproj", "{65BD87D8-4F98-4010-91A6-B8F921EF3453}"
-EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "006A", "006A\006A.pyproj", "{348AE1A5-34AB-464E-B020-CA8C52B79468}"
-EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "006B", "006B\006B.pyproj", "{452EF6BE-DF7D-4B57-9050-6CFD41CD2EA1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
+=======
+		{DBDC0E02-0BF7-4878-8F95-57D10DF0D132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDC0E02-0BF7-4878-8F95-57D10DF0D132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CBEBAE-D52C-41B3-AE33-14130A212E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CBEBAE-D52C-41B3-AE33-14130A212E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6747CCB5-AB68-43D2-88D1-EFA470FF8B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6747CCB5-AB68-43D2-88D1-EFA470FF8B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37392C4-DCB9-4B1B-97A2-0B093AA1853A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37392C4-DCB9-4B1B-97A2-0B093AA1853A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5fd41829600d27853222deae7001770a2b8def87
 		{6D966EAD-D166-4519-8754-8FF0756272E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6D966EAD-D166-4519-8754-8FF0756272E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EDCF656-9268-4E35-B4EB-9263A30E2DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU

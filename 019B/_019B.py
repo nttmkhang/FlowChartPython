@@ -11,7 +11,7 @@ def HamLuyThua(x):
 
 def main():
     print('Bui Thi Nhu Y')
-    print('Bai 019A')
+    print('Bai 019B')
     x = Nhap()
     print('Luy thua 13 cua ', x, ' la: ', HamLuyThua(x))
 

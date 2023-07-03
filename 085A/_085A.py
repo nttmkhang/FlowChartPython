@@ -1,5 +1,5 @@
 print('Bui Thi Nhu Y')
-print ('Bai 85')
+print ('Bai 085A')
 x = int(input('Nhap x: '))
 n = int(input('Nhap n: '))
 s = 0

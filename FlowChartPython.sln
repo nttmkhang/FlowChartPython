@@ -3,6 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "007A", "007A\007A.pyproj", "{C7CF30F1-91BF-4E70-A0C5-5F6BD6376052}"
 EndProject
@@ -20,6 +21,19 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai078A", "Bai078A\Bai078A.
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai078B", "Bai078B\Bai078B.pyproj", "{639CEE38-4306-4CFF-AA69-92BB0209BC55}"
 >>>>>>> 56ddfc81312086b0fe56baa5e0c6b8bfc6a77987
+=======
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "040A", "040A\040A.pyproj", "{6C78AB07-6F5B-4103-AACD-32B2815F5F90}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "040B", "040B\040B.pyproj", "{48CF2819-C3DD-48AD-92B3-A75AD4F256D4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "041A", "041A\041A.pyproj", "{B17F2ECC-F96E-4C13-A84B-3BD3E1372D0C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "041B", "041B\041B.pyproj", "{C40FAD16-5227-4903-A065-0CCAC7FA2472}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "042A", "042A\042A.pyproj", "{43D3517D-B9F1-4088-A8F2-E2EDAFF97EBD}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "042B", "042B\042B.pyproj", "{4C20C63D-D08F-409C-BE42-23C7270763B7}"
+>>>>>>> Stashed changes
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +41,7 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 		{C7CF30F1-91BF-4E70-A0C5-5F6BD6376052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C7CF30F1-91BF-4E70-A0C5-5F6BD6376052}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -46,6 +61,20 @@ Global
 		{639CEE38-4306-4CFF-AA69-92BB0209BC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{639CEE38-4306-4CFF-AA69-92BB0209BC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 >>>>>>> 56ddfc81312086b0fe56baa5e0c6b8bfc6a77987
+=======
+		{6C78AB07-6F5B-4103-AACD-32B2815F5F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C78AB07-6F5B-4103-AACD-32B2815F5F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48CF2819-C3DD-48AD-92B3-A75AD4F256D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48CF2819-C3DD-48AD-92B3-A75AD4F256D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17F2ECC-F96E-4C13-A84B-3BD3E1372D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17F2ECC-F96E-4C13-A84B-3BD3E1372D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C40FAD16-5227-4903-A065-0CCAC7FA2472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C40FAD16-5227-4903-A065-0CCAC7FA2472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D3517D-B9F1-4088-A8F2-E2EDAFF97EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D3517D-B9F1-4088-A8F2-E2EDAFF97EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C20C63D-D08F-409C-BE42-23C7270763B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C20C63D-D08F-409C-BE42-23C7270763B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+>>>>>>> Stashed changes
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

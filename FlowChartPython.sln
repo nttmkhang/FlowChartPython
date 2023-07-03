@@ -771,6 +771,8 @@ EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "076B", "076B\076B.pyproj", "{AA54DA47-A909-4BE4-86B1-D13CD5FA5E94}"
 >>>>>>> cddeb3c55f1dfe03031d554bd259f0bef41f7d45
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "029A", "029A\029A.pyproj", "{C6368257-1F21-489E-A74B-C4760AC114B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

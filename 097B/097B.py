@@ -1,15 +1,12 @@
 import math
 
-def nhap():
+def Nhap():
     x = int (input("Nhap so x: "))
     n = int (input("Nhap so n: "))
     return x, n
-    
-def xuat(s):
-    print("Tong la: ", s)
-    
-def tinhTong():
-    x, n = nhap()
+        
+def TinhTong():
+    x, n = Nhap()
     s = 0
     i = 1
     t = 1
@@ -17,11 +14,12 @@ def tinhTong():
         t = t * x
         s = math.sqrt(t + s)
         i = i + 1
-    xuat(s)
 
 def main():
-    print("Bai 097B: 21521083")
-    tinhTong()
+   print("Le Thi Bich Loan ")
+   print("Bài 097B: ")
+   Nhap()
+   print("S = ", TinhTong())
 
 if __name__ == "__main__":
     main()

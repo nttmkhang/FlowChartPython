@@ -1,5 +1,6 @@
 print('Truong Nguyen Phuoc Tri')
 print('Bai 078A')
+
 x = float(input('Nhap x: '))
 n = int(input('Nhap n: '))
 s = 1

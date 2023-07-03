@@ -1,5 +1,4 @@
 def Nhap():
-	print('Truong Nguyen Phuoc Tri')
 	x = int(input('Nhap x: '))
 	return x
 
@@ -15,6 +14,5 @@ def main():
 	print(x,'^6 = ', LuyThua(x))
 
 if __name__ == "__main__":
-    main()
-
-
+	print('Truong Nguyen Phuoc Tri')
+	main()

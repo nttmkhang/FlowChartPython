@@ -14,13 +14,16 @@ def UCLN(a, b):
             n = n - m
     return m + n
 
+def Xuat(a, b, ucln):
+    print('UCLN(',a, ',', b, '):', ucln)
+
 def main():
     print('Nhap so a: ')
     a = Nhap()
     print('Nhap so b: ')
     b = Nhap()
     ucln = UCLN(a, b)
-    print('UCLN(',a, ',', b, '):', ucln)
+    Xuat(a, b, ucln)
 
 if __name__ == "__main__":
     main()

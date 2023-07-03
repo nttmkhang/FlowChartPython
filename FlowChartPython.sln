@@ -3,7 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "032A", "Bai032A\032A.pyproj", "{5A85AF65-09BF-4C38-9CE0-BB2AB989BFAA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "032B", "Bai032B\032B.pyproj", "{F32575CA-AA76-4179-A1EC-256BBFB7CA94}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "098A", "Bai098A\098A.pyproj", "{C614BD20-B8CD-41D0-8418-F1CA5F6B2F39}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "098B", "Bai098B\098B.pyproj", "{BE50A4CA-0BC9-46FC-8649-83F4B49B2829}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "163A", "Bai163A\163A.pyproj", "{9914E682-CE5A-4059-936C-CFE4342CBA44}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "163B", "Bai163B\163B.pyproj", "{FEC8F850-D857-4F43-AB95-3C9A5CFB3A2E}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A85AF65-09BF-4C38-9CE0-BB2AB989BFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A85AF65-09BF-4C38-9CE0-BB2AB989BFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32575CA-AA76-4179-A1EC-256BBFB7CA94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32575CA-AA76-4179-A1EC-256BBFB7CA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C614BD20-B8CD-41D0-8418-F1CA5F6B2F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C614BD20-B8CD-41D0-8418-F1CA5F6B2F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE50A4CA-0BC9-46FC-8649-83F4B49B2829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE50A4CA-0BC9-46FC-8649-83F4B49B2829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9914E682-CE5A-4059-936C-CFE4342CBA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9914E682-CE5A-4059-936C-CFE4342CBA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC8F850-D857-4F43-AB95-3C9A5CFB3A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC8F850-D857-4F43-AB95-3C9A5CFB3A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

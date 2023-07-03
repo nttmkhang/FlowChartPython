@@ -5,6 +5,10 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -16,6 +20,7 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "048A", "048A\048A.pyproj", 
 =======
 =======
 =======
+>>>>>>> 79ff7699e99f5c40113bee8b85e97abf8e11bf3c
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "064A", "060A\064A.pyproj", "{1DDD83A9-4080-4931-AB2F-86511544BA0C}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "064B", "060B\064B.pyproj", "{5D336DC7-8FEA-48C9-B459-1888C522D328}"
@@ -55,6 +60,7 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "103A", "103A\103A.pyproj", 
 >>>>>>> 7741940409103460b5f9982f9397bd1d126d6064
 =======
 >>>>>>> 364710a66ed921468563ce68a17e83dd0abfc619
+>>>>>>> 963fe96e60de87c0a094112a9a6d72456653c951
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "055A", "055A\055A.pyproj", "{91B6DFE3-8084-4A60-8799-7FD157206853}"
 >>>>>>> c0961cc50fed22c303abf34e5486c2ff83a1e6d0
 EndProject
@@ -281,10 +287,13 @@ EndProject
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 >>>>>>> 7741940409103460b5f9982f9397bd1d126d6064
 =======
 <<<<<<< HEAD
 >>>>>>> 364710a66ed921468563ce68a17e83dd0abfc619
+>>>>>>> 963fe96e60de87c0a094112a9a6d72456653c951
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "138A", "138A\138A.pyproj", "{3A158D5C-FC2A-4309-9088-3ADE42C9BABA}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "188B", "188B\188B.pyproj", "{02855017-8F09-4A1E-80D7-BC2B5717A1C0}"
@@ -333,6 +342,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "068A", "068A\068A.pyproj", 
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "068B", "068B\068B.pyproj", "{FF344035-28EB-44BD-9FB9-93031C029494}"
 EndProject
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -625,6 +636,10 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -663,6 +678,7 @@ Global
 >>>>>>> e40d031ebfa93131218ce05914b940ca003e239f
 =======
 =======
+>>>>>>> 79ff7699e99f5c40113bee8b85e97abf8e11bf3c
 		{1DDD83A9-4080-4931-AB2F-86511544BA0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1DDD83A9-4080-4931-AB2F-86511544BA0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D336DC7-8FEA-48C9-B459-1888C522D328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -707,6 +723,7 @@ Global
 >>>>>>> 364710a66ed921468563ce68a17e83dd0abfc619
 =======
 >>>>>>> 364710a66ed921468563ce68a17e83dd0abfc619
+>>>>>>> 963fe96e60de87c0a094112a9a6d72456653c951
 		{91B6DFE3-8084-4A60-8799-7FD157206853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{91B6DFE3-8084-4A60-8799-7FD157206853}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4583D193-4D03-44F0-91B9-9AA90AF0CE9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -839,6 +856,8 @@ Global
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 		{6D966EAD-D166-4519-8754-8FF0756272E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -899,6 +918,7 @@ Global
 		{3A158D5C-FC2A-4309-9088-3ADE42C9BABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 >>>>>>> c0961cc50fed22c303abf34e5486c2ff83a1e6d0
 >>>>>>> 364710a66ed921468563ce68a17e83dd0abfc619
+>>>>>>> 963fe96e60de87c0a094112a9a6d72456653c951
 		{C7CF30F1-91BF-4E70-A0C5-5F6BD6376052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C7CF30F1-91BF-4E70-A0C5-5F6BD6376052}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9575D6F3-F5D6-437C-B895-095FFFB72BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -1152,6 +1172,8 @@ Global
 =======
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
 		{7C465863-0B3A-4256-B30F-B1055763E4F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7C465863-0B3A-4256-B30F-B1055763E4F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2121A27C-14FD-469E-A642-E94E6BBBFB7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -1185,6 +1207,7 @@ Global
 >>>>>>> 4dc93c4bfd39b9459dfe9a55a37688d180daf796
 >>>>>>> c0961cc50fed22c303abf34e5486c2ff83a1e6d0
 >>>>>>> 364710a66ed921468563ce68a17e83dd0abfc619
+>>>>>>> 963fe96e60de87c0a094112a9a6d72456653c951
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

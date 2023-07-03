@@ -1,4 +1,5 @@
 print('Le Quang Nhan')
+print('Bai 022A')
 
 n = int(input("Nhap n: "))
 dv = n % 10

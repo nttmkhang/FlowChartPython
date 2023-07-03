@@ -13,9 +13,9 @@ def Tong_uoc_so(n):
         i=i+1 
     return s 
 def main():
-    print("Ten: Đặng Lê Bình") 
-    print("Bai 057B") 
+    print("Tên: Đặng Lê Bình") 
+    print("Bài 057B") 
     n=Nhap() 
-    print("Tong cac uoc so nho hon n la ", Tong_uoc_so(n)) 
+    print("Tổng các ước số nhỏ hơn n là ", Tong_uoc_so(n)) 
 if __name__=="__main__": 
     main()

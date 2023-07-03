@@ -1,6 +1,6 @@
-print("Ten: Dang Le Binh")
-print("Bai 057A")
-n=int(input("Nhap n: ")) 
+﻿print("Tên: Đặng Lê Bình")
+print("Bài 057A")
+n=int(input("Nhập n: ")) 
 i=1 
 s=0 
 while(i<n): 
@@ -8,4 +8,4 @@ while(i<n):
         s=s+i 
     i=i+1 
 
-print("Tong cac uoc so nho hon n la", s)
+print("Tổng các ước số của n và nhỏ hơn n là", s)

@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>34823459-67aa-4bf4-a384-b104b0fd0de2</ProjectGuid>
+    <ProjectGuid>00c3f644-b800-4ec8-a7e7-e0d0d7447d3b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>_001.py</StartupFile>
+    <StartupFile>_143B.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>001</Name>
-    <RootNamespace>001</RootNamespace>
+    <Name>143B</Name>
+    <RootNamespace>143B</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="_001.py" />
+    <Compile Include="_143B.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

@@ -3,7 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "035A", "035A\035A.pyproj", "{4329EF57-45FD-456E-B9F4-E28B58D31F8A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "035B", "035B\035B.pyproj", "{AECD6A93-0D1A-41B0-9ADE-B9FF698C71F0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "101A", "101A\101A.pyproj", "{99FD870A-B7ED-45D3-8987-02B7ECA1F93C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "101B", "101B\101B.pyproj", "{A6D81F01-3720-4068-B317-EFCBD4320C9A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "166A", "166A\166A.pyproj", "{CE3DB0D2-5887-4444-942F-254534B3F506}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "166B", "166B\166B.pyproj", "{8FC3D73D-FD14-4280-A079-CB96E7D2021C}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4329EF57-45FD-456E-B9F4-E28B58D31F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4329EF57-45FD-456E-B9F4-E28B58D31F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECD6A93-0D1A-41B0-9ADE-B9FF698C71F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECD6A93-0D1A-41B0-9ADE-B9FF698C71F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FD870A-B7ED-45D3-8987-02B7ECA1F93C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FD870A-B7ED-45D3-8987-02B7ECA1F93C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D81F01-3720-4068-B317-EFCBD4320C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D81F01-3720-4068-B317-EFCBD4320C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3DB0D2-5887-4444-942F-254534B3F506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3DB0D2-5887-4444-942F-254534B3F506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC3D73D-FD14-4280-A079-CB96E7D2021C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC3D73D-FD14-4280-A079-CB96E7D2021C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

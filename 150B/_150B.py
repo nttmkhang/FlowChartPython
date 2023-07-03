@@ -1,5 +1,6 @@
 print('Nguyen Vu Binh')
-print('Bai_149B')
+print('Bai 150B')
+
 def Nhap():
     n = int(input())
     return n
@@ -14,8 +15,11 @@ def UCLN(a, b):
             n = n - m
     return m + n
 
-def Xuat(a, b, ucln):
-    print('UCLN(',a, ',', b, '):', ucln)
+def BCNN(a, b, ucln):
+    return abs(a * b) / ucln
+
+def Xuat(a, b, bcnn):
+    print('BCNN(',a, ',', b, '):', bcnn)
 
 def main():
     print('Nhap so a: ')
@@ -23,7 +27,8 @@ def main():
     print('Nhap so b: ')
     b = Nhap()
     ucln = UCLN(a, b)
-    Xuat(a, b, ucln)
+    bcnn = BCNN(a, b, ucln)
+    Xuat(a, b, bcnn)
 
 if __name__ == "__main__":
     main()

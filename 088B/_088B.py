@@ -16,6 +16,7 @@ def Tong(n):
 
 def main():
 	print('Le Quang Nhan')
+	print('Bai 088B')
 	n = Nhap()
 	print('Tong = ', Tong(n))
 

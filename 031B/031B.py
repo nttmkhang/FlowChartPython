@@ -11,9 +11,10 @@ def Tong(n):
     return s
 
 def main():
-    print("Bai 031B: 21521083")
-    n = Nhap()
-    print("S = ", Tong(n))
+   print("Le Thi Bich Loan ")
+   print("Bài 031B: ")
+   n = Nhap()
+   print("S = ", Tong(n))
     
 if __name__ == "__main__":
     main()

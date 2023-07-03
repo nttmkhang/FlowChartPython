@@ -2,7 +2,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
+<<<<<<< HEAD
     <ProjectGuid>7b278577-0453-4104-b082-644ed96aee80</ProjectGuid>
+=======
+    <ProjectGuid>caed2d9d-1089-490e-9d56-b3c131c919e6</ProjectGuid>
+>>>>>>> d6149d2ad5d5cae8946bcb3daced3b2faa3f4e2a
     <ProjectHome>.</ProjectHome>
     <StartupFile>_162B.py</StartupFile>
     <SearchPath>

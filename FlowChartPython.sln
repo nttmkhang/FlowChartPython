@@ -3,7 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "065A", "065A\065A.pyproj", "{39111BB4-E9EA-4A92-90C5-1339EE1604DB}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "065B", "065B\065B.pyproj", "{992E84FB-1CD2-4882-B298-E59A7242F2C9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "131A", "131A\131A.pyproj", "{1C61E574-38D5-4C73-A577-BC5500097386}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "131B", "131B\131B.pyproj", "{7A7FD2AE-B6C0-4954-882A-6ACEBDEEAA97}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "161A", "161A\161A.pyproj", "{E43A41C9-9D86-4F4E-896B-9E57E1B07202}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "161B", "161B\161B.pyproj", "{002C4CD1-ABCF-4F7C-B484-654EC7329EF4}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39111BB4-E9EA-4A92-90C5-1339EE1604DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39111BB4-E9EA-4A92-90C5-1339EE1604DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{992E84FB-1CD2-4882-B298-E59A7242F2C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{992E84FB-1CD2-4882-B298-E59A7242F2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C61E574-38D5-4C73-A577-BC5500097386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C61E574-38D5-4C73-A577-BC5500097386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A7FD2AE-B6C0-4954-882A-6ACEBDEEAA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A7FD2AE-B6C0-4954-882A-6ACEBDEEAA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E43A41C9-9D86-4F4E-896B-9E57E1B07202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43A41C9-9D86-4F4E-896B-9E57E1B07202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002C4CD1-ABCF-4F7C-B484-654EC7329EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002C4CD1-ABCF-4F7C-B484-654EC7329EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

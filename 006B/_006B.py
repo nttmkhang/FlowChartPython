@@ -7,8 +7,8 @@ def DoF(c):
 
 def main():
 	print('Nguyen Minh Phap')
-	c = Nhap()
 	print('Bai 006:')
+	c = Nhap()
 	print('Do F: ' , DoF(c) , sep="")
 
 if __name__ == "__main__":

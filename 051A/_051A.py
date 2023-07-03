@@ -1,3 +1,4 @@
+
 print('Tran Nguyen Chi Huy')
 n = int(input("Nhap n: "))
 t = 1

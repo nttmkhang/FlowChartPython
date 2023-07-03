@@ -2,16 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>738b739d-6e84-4c9b-befb-1f77835a4957</ProjectGuid>
-    <ProjectHome>
-    </ProjectHome>
+    <ProjectGuid>1faee83e-75c8-4356-b0d6-568bfd09ddc0</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
     <StartupFile>_117B.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>117B</Name>
-    <RootNamespace>Bai_117B</RootNamespace>
+    <RootNamespace>117B</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>

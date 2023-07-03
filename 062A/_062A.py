@@ -8,4 +8,3 @@ while t != 0:
         s += dv
     t = int(t/10)
 print("Tong cua chu so chan cua", n, "la", s)
-

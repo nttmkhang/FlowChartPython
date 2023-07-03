@@ -9,9 +9,9 @@ def Tinh(n):
         at = ahh
     return at
 def main():
+    print("Phan Nguyen Khoa - Bai 114B")
     n=Nhap()
     at=Tinh(n)
-    print("Phan Nguyen Khoa - Bai 114B")
     print("So hang thu n cua day la: ",at)
 if __name__ == "__main__":
     main()

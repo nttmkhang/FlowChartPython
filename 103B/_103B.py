@@ -1,5 +1,3 @@
-print("Tran Nhat Tan")
-
 def TinhToan():
     s=0
     e=1
@@ -11,6 +9,7 @@ def TinhToan():
     return s
 
 def main():
+    print("Tran Nhat Tan")
     kq=TinhToan()
     print("\nS(n) = ",round(kq,6),".\n")
 

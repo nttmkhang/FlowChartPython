@@ -1,5 +1,5 @@
 print('Pham Tran Anh Khoi')
-print('Bai 020')
+print('Bai 020A')
 x = float(input('Nhap x: '))
 x2 = x * x
 x4 = x2 * x2 

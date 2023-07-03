@@ -17,7 +17,7 @@ def Tinh(x, n):
 
 def main():
 	print('Pham Tran Anh Khoi')
-	print('Bai 86')
+	print('Bai 86B')
 	x, n = Nhap()
 	print('Tong S la: ', Tinh(x, n))
 

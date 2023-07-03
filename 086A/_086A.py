@@ -1,5 +1,5 @@
 print('Pham Tran Anh Khoi')
-print('Bai 86')
+print('Bai 86A')
 x = float(input('Nhap x: '))
 n = float(input('Nhap n: '))
 s = 0

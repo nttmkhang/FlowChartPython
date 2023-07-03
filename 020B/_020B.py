@@ -12,7 +12,7 @@ def LuyThua14(x):
 
 def main():
 	print('Pham Tran Anh Khoi')
-	print('Bai 20')
+	print('Bai 20B')
 	x = Nhap()
 	print('x14 = ', LuyThua14(x))
 

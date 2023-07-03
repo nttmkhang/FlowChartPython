@@ -1,6 +1,6 @@
 import math
 print('Nguyen Minh Phap')
-print('Bai001: ')
+print('Bai 001A: ')
 x1 = float(input("Nhap x1 : "))
 y1 = float(input("Nhap y1 : "))
 x2 = float(input("Nhap x2 : "))

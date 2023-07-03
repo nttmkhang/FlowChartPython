@@ -12,9 +12,10 @@ def Tong(n):
 	return s
 
 def main():
-	print('Nguyen Trong Ninh Bai 068B')
 	n = Nhap()
 	print('Tong la: ', Tong(n))
 
 if __name__ == "__main__":
-    main()
+	print('Nguyen Trong Ninh')
+	print('Bai 068')
+	main()

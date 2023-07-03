@@ -12,4 +12,6 @@ def main():
 	print('Chu vi duong tron la: ', ChuVi(r))
 
 if __name__ == "__main__":
-    main()
+	print('Nguyen Trong Ninh')
+	print('Bai 003')
+	main()

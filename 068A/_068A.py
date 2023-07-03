@@ -1,5 +1,7 @@
 
-print('Nguyen Trong Ninh Bai 068A')
+
+print('Nguyen Trong Ninh')
+print('Bai 068')
 n = int(input("Nhap n : "))
 s = 0
 t = 1

@@ -1,4 +1,5 @@
 print('Le Quang Nhan')
+print('Bai 088A')
 
 n = int(input('Nhap n: '))
 s = 0

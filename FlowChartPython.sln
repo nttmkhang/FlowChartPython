@@ -4,6 +4,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 <<<<<<< HEAD
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "002A", "002A\002A.pyproj", "{3FCF4DE3-C14B-4D78-9869-2315C023650A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "002B", "002B\002B.pyproj", "{664E6590-7D3C-41EB-AB86-6322AFE259A3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "067A", "067A\067A.pyproj", "{DF296A8C-161A-4DEB-A8D5-5D09AD0F51F0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "067B", "067B\067B.pyproj", "{70696A3A-5572-4ABD-A216-94C1B4672311}"
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "025B", "025\025B.pyproj", "{3FF46941-ACC9-468C-AFF4-F15E6F616C00}"
 EndProject
@@ -56,6 +65,7 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai078B", "Bai078B\Bai078B.
 >>>>>>> 56ddfc81312086b0fe56baa5e0c6b8bfc6a77987
 >>>>>>> 7c933eeafba93442918ff7960844f61ea102afa6
 >>>>>>> 492589382f2c2d9ea772d49fa5748784b3ffd121
+>>>>>>> 7ae3c09136521091a333cb3cd7cf84616e7dd817
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "019A", "019A\019A.pyproj", "{03941055-8A94-4497-BC71-2FBB1970BDC5}"
 EndProject
@@ -71,6 +81,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
+		{3FCF4DE3-C14B-4D78-9869-2315C023650A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCF4DE3-C14B-4D78-9869-2315C023650A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664E6590-7D3C-41EB-AB86-6322AFE259A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664E6590-7D3C-41EB-AB86-6322AFE259A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF296A8C-161A-4DEB-A8D5-5D09AD0F51F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF296A8C-161A-4DEB-A8D5-5D09AD0F51F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70696A3A-5572-4ABD-A216-94C1B4672311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70696A3A-5572-4ABD-A216-94C1B4672311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 		{3FF46941-ACC9-468C-AFF4-F15E6F616C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -129,6 +149,7 @@ Global
 >>>>>>> 56ddfc81312086b0fe56baa5e0c6b8bfc6a77987
 >>>>>>> 7c933eeafba93442918ff7960844f61ea102afa6
 >>>>>>> 492589382f2c2d9ea772d49fa5748784b3ffd121
+>>>>>>> 7ae3c09136521091a333cb3cd7cf84616e7dd817
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
